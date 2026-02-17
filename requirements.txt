@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+openai
+google-generativeai
+sentence-transformers
+scikit-learn
+numpy
+pandas
+python-docx
+PyMuPDF
+reportlab
+pickle-mixin
